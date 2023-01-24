@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "discord.js": "^13.3.1",
+    "discord.js": "^14.7.1",
     "enmap": "^5.8.7"
   },
   "name": "menuticket",
